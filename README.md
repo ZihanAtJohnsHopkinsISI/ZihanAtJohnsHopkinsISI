@@ -3,7 +3,7 @@
 - 📫 How to reach me: zqu6@jh.edu or ziquglobal@icloud.com
 - 😄 Pronouns: He/Him/His
 
-<h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20">, I am Zihan Qu
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20">, I am Zihan Qu
 
 
 
