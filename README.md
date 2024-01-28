@@ -9,7 +9,7 @@
 
 - 🎓 I graduated (class of 2022) from the University of California, San Diego, and am currently pursuing a Master's Degree in Computer and Information System Security at Johns Hopkins University (class of 2024)
 
-- 🔭 I am currently working on a startup project: &nbsp; <a href="https://healinpocketusa.wixsite.com/heal-in-pocket"> <img src="https://github.com/YingjiaLiu99/YingjiaLiu99/assets/113162439/5e90751b-48b3-44c1-895c-86be4afaa840" alt="Alt text for your image" width="150" height="auto"/></a> &nbsp [[Frontend repo]](https://github.com/YingjiaLiu99/Heal-in-Pocket.git)&nbsp;&nbsp;[[Backend repo]](https://github.com/YingjiaLiu99/Heal-in-Pocket_backend.git)
+- 🔭 I am currently working on a startup project: &nbsp; <a href="https://healinpocketusa.wixsite.com/heal-in-pocket"> <img src="https://github.com/YingjiaLiu99/YingjiaLiu99/assets/113162439/5e90751b-48b3-44c1-895c-86be4afaa840" alt="Alt text for your image" width="150" height="auto"/></a> [[Frontend repo]](https://github.com/YingjiaLiu99/Heal-in-Pocket.git)&nbsp;&nbsp;[[Backend repo]](https://github.com/YingjiaLiu99/Heal-in-Pocket_backend.git)
 
 - 📫 How to reach me: zqu6@jh.edu or ziquglobal@icloud.com
 - ✨ Please connect me on LinkedIn: &nbsp;&nbsp;<a href="https://www.linkedin.com/in/zihan-qu-945635189/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Zihan Qu" height="17" width="17" style="margin-top:-5px;"/></a>
