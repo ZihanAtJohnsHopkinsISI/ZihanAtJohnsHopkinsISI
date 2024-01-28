@@ -39,8 +39,12 @@
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
- <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/security/security-original.svg" alt="Exploit" width="40" height="40"/> </a>
+<!--  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/security/security-original.svg" alt="Exploit" width="40" height="40"/> </a> -->
 </p>
+
+<h3 align="left">Information Security Assurance/Audit Tools: </h3>
+
+<p> Metasploit, Autopsy, FTKImager, Hopper Disassembler </p>
  
 
 <!---
