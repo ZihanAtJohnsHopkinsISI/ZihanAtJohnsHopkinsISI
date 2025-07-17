@@ -3,11 +3,11 @@
 
 <h2 align="center">Hi 👋, I am Zihan Qu </h2>
 <h5 align="center">😄 Pronouns: He/Him/His </h5>
-<h3 align="center">👀 I’m actively looking for an entry-level software engineer job </h3>
+<h3 align="center">👀 I’m a doctorate student at Northeastern University </h3>
 
 <h3 align="left">About Me: </h3>
 
-- 🎓 I graduated (class of 2022) from the University of California, San Diego, and am currently pursuing a Master's Degree in Computer and Information System Security at Johns Hopkins University (class of 2024)
+- 🎓 I graduated (class of 2022) from the University of California, San Diego, and am currently pursuing a Master's Degree in Computer and Information System Security at Johns Hopkins University (class of 2024). I will start my PhD career soon in Fall 2025. 
 
 - 🔭 I am currently working on a startup project: Heal in Pocket &nbsp; <a href="https://healinpocketusa.wixsite.com/heal-in-pocket"> </a> [[Frontend]](https://github.com/YingjiaLiu99/Heal-in-Pocket.git)&nbsp;&nbsp;[[Backend]](https://github.com/YingjiaLiu99/Heal-in-Pocket_backend.git)
 
