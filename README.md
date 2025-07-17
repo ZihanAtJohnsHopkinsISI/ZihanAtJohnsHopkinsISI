@@ -11,7 +11,7 @@
 
 - 🔭 I am currently working on a startup project: Heal in Pocket &nbsp; <a href="https://healinpocketusa.wixsite.com/heal-in-pocket"> </a> [[Frontend]](https://github.com/YingjiaLiu99/Heal-in-Pocket.git)&nbsp;&nbsp;[[Backend]](https://github.com/YingjiaLiu99/Heal-in-Pocket_backend.git)
 
-- 📫 How to reach me: zqu6@jh.edu or ziquglobal@icloud.com
+- 📫 How to reach me: zi.qu@northeastern.edu
 - ✨ Please connect me on LinkedIn: &nbsp;&nbsp;<a href="https://www.linkedin.com/in/zihan-qu-945635189/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Zihan Qu" height="17" width="17" style="margin-top:-5px;"/></a>
 
 <h3 align="left">Technical Skills: </h3>
