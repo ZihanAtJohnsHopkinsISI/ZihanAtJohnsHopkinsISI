@@ -9,7 +9,7 @@
 
 - Currently I am a PhD student at Northeastern University, affiliated in Institute for Information, the Internet, and Democracy. Before 2025, I graduated (class of 2022) from the University of California, San Diego, and am currently pursuing a Master's Degree in Computer and Information System Security at Johns Hopkins University (class of 2024).
 
-- My paper (WIP) "Work-in-Progress: Uncovering Dark Patterns: A Longitudinal Study of Cookie Banner Practices under GDPR (2017-2024)" has been accepted by MADWeb 2025 (Workshop on Measurements, Attacks, and Defenses for the Web), with non-proceeding. <a href="https://www.ndss-symposium.org/ndss2025/co-located-events/madweb/accepted-papers/"> </a> 
+- My paper (WIP) "Work-in-Progress: Uncovering Dark Patterns: A Longitudinal Study of Cookie Banner Practices under GDPR (2017-2024)" has been accepted by MADWeb 2025 (Workshop on Measurements, Attacks, and Defenses for the Web), with non-proceeding. &nbsp;&nbsp; <a href="https://www.ndss-symposium.org/ndss2025/co-located-events/madweb/accepted-papers/"> </a> 
 
 
 - How to reach me: qu.zi@northeastern.edu
