@@ -2,7 +2,7 @@
 
 
 <h2 align="center">Hi 👋, I am Zihan Qu </h2>
-<h5 align="center">😄 Pronouns: He/Him/His </h5>
+<h5 align="center">😄 Pronouns: They/Them </h5>
 <h3 align="center">👀 I’m a doctorate student at Northeastern University </h3>
 
 <h3 align="left">About Me: </h3>
