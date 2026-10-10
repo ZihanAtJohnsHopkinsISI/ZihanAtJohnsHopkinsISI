@@ -7,12 +7,15 @@
 
 <h3 align="left">About Me: </h3>
 
-- 🎓 I graduated (class of 2022) from the University of California, San Diego, and am currently pursuing a Master's Degree in Computer and Information System Security at Johns Hopkins University (class of 2024). I will start my PhD career soon in Fall 2025. 
+- Currently I am a PhD student at Northeastern University, affiliated in Institute for Information, the Internet, and Democracy. Before 2025, I graduated (class of 2022) from the University of California, San Diego, and am currently pursuing a Master's Degree in Computer and Information System Security at Johns Hopkins University (class of 2024).
 
-- 🔭 I am currently working on a startup project: Heal in Pocket &nbsp; <a href="https://healinpocketusa.wixsite.com/heal-in-pocket"> </a> [[Frontend]](https://github.com/YingjiaLiu99/Heal-in-Pocket.git)&nbsp;&nbsp;[[Backend]](https://github.com/YingjiaLiu99/Heal-in-Pocket_backend.git)
+- My paper (WIP) "Work-in-Progress: Uncovering Dark Patterns: A Longitudinal Study of Cookie Banner Practices under GDPR (2017-2024)" has been accepted by MADWeb 2025 (Workshop on Measurements, Attacks, and Defenses for the Web), with non-proceeding. <a href="https://www.ndss-symposium.org/ndss2025/co-located-events/madweb/accepted-papers/"> </a> 
 
-- 📫 How to reach me: qu.zi@northeastern.edu
-- ✨ Please connect me on LinkedIn: &nbsp;&nbsp;<a href="https://www.linkedin.com/in/zihan-qu-945635189/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Zihan Qu" height="17" width="17" style="margin-top:-5px;"/></a>
+
+- How to reach me: qu.zi@northeastern.edu
+- Please connect me on LinkedIn: &nbsp;&nbsp;<a href="https://www.linkedin.com/in/zihan-qu-945635189/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Zihan Qu" height="17" width="17" style="margin-top:-5px;"/></a>
+
+- 🔭 I worked on a startup project between 2023 to 2024: Heal in Pocket &nbsp; <a href="https://healinpocketusa.wixsite.com/heal-in-pocket"> </a> [[Frontend]](https://github.com/YingjiaLiu99/Heal-in-Pocket.git)&nbsp;&nbsp;[[Backend]](https://github.com/YingjiaLiu99/Heal-in-Pocket_backend.git)
 
 <h3 align="left">Technical Skills: </h3>
 
